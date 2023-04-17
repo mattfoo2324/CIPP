@@ -9,7 +9,7 @@ description: Offboard the selected user with standard requirements
 
 ### Overview
 
-With the Offboarding Wizard you can select a user in a tenant to off-board whilst optionally removing licences, setting out of office and delegating access to mail or files. You can also use this wizard as a method of easily setting a users Out Of Office.
+With the Offboarding Wizard you can select a user in a tenant to off-board whilst optionally removing licences, setting out of office and delegating access to mail or files. You can also use this wizard as a method of easily setting a user's Out Of Office.
 
 ### Available Tasks
 
